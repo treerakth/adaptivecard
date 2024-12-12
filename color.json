@@ -1,0 +1,9 @@
+{
+    "default": "default",
+    "blue": "accent",
+    "green": "good",
+    "yellow": "warning",
+    "red": "attention",
+    "gray": "light",
+    "black": "dark"
+}
